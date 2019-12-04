@@ -1,0 +1,26 @@
+
+ KELAS     : IF 40-07
+ ANGGOTA   : - Fakhira Zahra Zulfira    (1301164549)
+             - Haifa Salsabila          (1301160170)
+             - Karina Aulia Dini        (1301164342)
+             - Monica Dessy Amanda      (1301164452)
+ 
+ TEMA      : e-commerce
+
+ DESKRIPSI :
+
+ a. 1301164549 Fakhira Zahra Zulfira : * Membuat datatabel, read item, delete item, insert item, update lokasi dan keterangan,
+                                         dan jquery plugin pada halaman order.
+                                       * Membuat Delete all item saat log out.
+
+ b. 1301160170 Haifa Salsabila       : * Membuat read data (dari database) dengan menggunakan modal pada halaman driver.
+                                       * Membuat insert menu, edit menu, delete menu, read menu di halaman admin, data menu.
+                                       * Membuat data json pada halaman menu.
+   
+ c. 1301164342 Karina Aulia Dini     : * Membuat insert data akun saat signup di halaman login.
+                                       * Membuat session untuk login dan logout pada bagian header halaman home, menu, dan order.
+
+ d. 1301164452 Monica Dessy Amanda   : * Membuat datatabel, read data dengan join pada halaman admin, data transaksi.
+                                       * Membuat datatabel, read data dan update data pada halaman admin, data driver.
+				       * Membuat dua jquery plugin pada halaman home.
+                                       * Membuat jquery plugin pada halaman bonus.
